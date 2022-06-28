@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "hasMore": true,
+    "offset": 32,
+    "totalCount": 150
+  },
+  "restaurants": {
+    "4-CZACR3E3HAXXWA": {
+      "id": "4-CZACR3E3HAXXWA",
+      "name": "KFC - Chinatown Point",
+      "latitude": 1.2854202499999998,
+      "longitude": 103.84509295000001
+    },
+    "4-C25DLNMGNNNAJ6": {
+      "id": "4-C25DLNMGNNNAJ6",
+      "name": "Jollibee - Bugis Village",
+      "latitude": 1.30085318481868,
+      "longitude": 103.855569038047
+    },
+    "4-C2M3LX3HVKEWL6": {
+      "id": "4-C2M3LX3HVKEWL6",
+      "name": "Southern Soul Nashville Fried Chicken - The Quayside #01-15",
+      "latitude": 1.29003,
+      "longitude": 103.839152
+    },
+    "4-CZNJJEBYVN2AEX": {
+      "id": "4-CZNJJEBYVN2AEX",
+      "name": "Japanese Korean Cuisine - Membina Court",
+      "latitude": 1.2827873,
+      "longitude": 103.82609099999998
+    },
+    "SGDD11038": {
+      "id": "SGDD11038",
+      "name": "Papa Ayam - 313@Somerset",
+      "latitude": 1.3010996475356507,
+      "longitude": 103.83835892554652
+    },
+    "SGDD01796": {
+      "id": "SGDD01796",
+      "name": "Oven & Fried Chicken - Katong",
+      "latitude": 1.306957,
+      "longitude": 103.895459
+    },
+    "SGDD06452": {
+      "id": "SGDD06452",
+      "name": "Seoul Yummy - Bugis+",
+      "latitude": 1.299794,
+      "longitude": 103.854141
+    },
+    "SGDD05468": {
+      "id": "SGDD05468",
+      "name": "Nando's - Bugis Junction",
+      "latitude": 1.2989825321284485,
+      "longitude": 103.85502443551195
+    }
+  }
+}

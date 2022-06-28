@@ -1,0 +1,25 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Kaustubh Agrawal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "puppeteer": "^14.1.2"
+  },
+  "dependencies": {
+    "lowdb": "^3.0.0",
+    "lowdb-node": "^3.0.2",
+    "puppeteer-extra": "^3.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.10.1",
+    "queue": "^6.0.2",
+    "random-useragent": "^0.5.0"
+  }
+}
